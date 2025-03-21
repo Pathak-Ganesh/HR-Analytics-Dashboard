@@ -1,6 +1,6 @@
-## HR Analytics Dashboard 📊
+# HR Analytics Dashboard 📊
 
-# Overview
+## Overview
 
 This Power BI dashboard provides insights into employee attrition trends based on various factors like job role, tenure, salary, education, and age. The analysis helps HR teams identify key areas to improve employee retention and engagement.
 
@@ -57,5 +57,5 @@ Male employees exhibit a higher attrition count compared to female employees.
 
 
 
-🔗 GitHub Repository: 
+🔗 Power BI Dashboard: https://github.com/Pathak-Ganesh/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20dashboard.png
 

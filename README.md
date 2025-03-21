@@ -59,3 +59,6 @@ Male employees exhibit a higher attrition count compared to female employees.
 
 🔗 Power BI Dashboard: https://github.com/Pathak-Ganesh/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20dashboard.png
 
+![image](https://github.com/user-attachments/assets/b72cb5b7-a8c1-47a1-bccd-e2c407bbadcd)
+
+
